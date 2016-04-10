@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\NestedLayerManager\NestedLayerManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\NestedLayerManager\NestedLayerManager\bin\Debug\NestedLayerManager.dll
+C:\Users\Tim\Desktop\NestedLayerManager\NestedLayerManager\bin\Debug\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\NestedLayerManager\NestedLayerManager\obj\Debug\NestedLayerManager.dll
+C:\Users\Tim\Desktop\NestedLayerManager\NestedLayerManager\obj\Debug\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\Nested Layer Manager v2.2.0 Source Code\Assembly\NestedLayerManager\bin\Debug\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Nested Layer Manager v2.2.0 Source Code\Assembly\NestedLayerManager\bin\Debug\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\Nested Layer Manager v2.2.0 Source Code\Assembly\NestedLayerManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Nested Layer Manager v2.2.0 Source Code\Assembly\NestedLayerManager\obj\Debug\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Nested Layer Manager v2.2.0 Source Code\Assembly\NestedLayerManager\obj\Debug\NestedLayerManager.pdb

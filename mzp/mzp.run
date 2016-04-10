@@ -1,0 +1,10 @@
+name "Nested Layer Manager"
+version 1
+description "Nested Layer Manager for 3ds Max."
+
+extract to "$temp/Nested Layer Manager"
+
+run installer.ms
+drop installer.ms
+
+clear temp
